@@ -10,8 +10,8 @@ body, html {
   padding: 16px;
   box-sizing: border-box;
   display: grid;
-  grid-template-columns: 310px auto;
-  grid-template-rows: 100px 100px 300px 100px;
+  grid-template-columns: 300px 900px;
+  grid-template-rows: 100px 100px 500px 100px;
   gap: 15px;
 }
 
@@ -44,10 +44,10 @@ body, html {
 }
 
 .article p {
-  font-size: 1vw;
+  font-size: 18px;
   font-family: sans-serif;
   color: white;
-  text-align: justify;
+  text-align: left;
 }
 
 .footer {
